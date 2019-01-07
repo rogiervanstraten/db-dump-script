@@ -1,0 +1,14 @@
+env_file=./.env
+
+# We include the config file
+source $env_file
+
+db_name=
+db_user=
+db_password=
+
+target_dir=
+file_prefix=dbdump-
+
+crypt=true
+crypt_key=
