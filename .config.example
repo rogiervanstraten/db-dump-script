@@ -12,3 +12,6 @@ file_prefix=dbdump-
 
 crypt=true
 crypt_key=
+
+clearout=true
+clearout_tail=4
